@@ -1,2 +1,3 @@
-# website
-to host  a dummy website
+#value added courses
+code for the java script and the html
+
